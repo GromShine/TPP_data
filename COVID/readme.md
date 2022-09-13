@@ -1,1 +1,1 @@
-{'1':[t11,t12,....], '2':[t21,t22,....]}
+covid data & data A_matrix
